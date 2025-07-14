@@ -2,7 +2,7 @@
 Ingeniero Informático apasionado por el desarrollo de software, APIs y soluciones web.
 
 ## 💻 Developer
-[![GitHub Streak](https://streak-stats.demolab.com?user=irwinet&theme=highcontrast&hide_border=true&border_radius=7&locale=es&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=irwinet&theme=highcontrast&hide_border=true&border_radius=7&locale=es&exclude_days=Sun%2CSat)](#)
 
 ## 🧠 Tecnologías con las que trabajo
 - Frontend: HTML, CSS, JavaScript, Angular, React
