@@ -3,7 +3,7 @@ Ingeniero Informático apasionado por el desarrollo de software, APIs y solucion
 
 ## 💻 Developer
  <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=irwinet&theme=highcontrast&hide_border=true&border_radius=7&locale=es&exclude_days=Sun%2CSat)](#) -->
-[![Anurag's GitHub stats]([https://github-readme-stats.vercel.app/api?username=anuraghazra](https://github-readme-stats.vercel.app/api?username=irwinet&show_icons=true&theme=dark&locale=es&border_radius=7&hide_border=true))](#)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=irwinet&show_icons=true&theme=dark&locale=es&border_radius=7&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🧠 Tecnologías con las que trabajo
 - Frontend: HTML, CSS, JavaScript, Angular, React
